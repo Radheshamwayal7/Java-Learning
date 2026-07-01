@@ -11,6 +11,6 @@ public class iff {
         }else{
             System.out.println("Not Adult");
         }
-
+        sc.close();
     }
 }

@@ -13,6 +13,6 @@ public class Button {
             System.out.println("Bonjour");
         }else{
             System.out.println("Invalid Button");
-        }
+        }sc.close();
     }
 }
