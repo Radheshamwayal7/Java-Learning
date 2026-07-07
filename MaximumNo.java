@@ -8,11 +8,11 @@ public class MaximumNo {
         int b = sc.nextInt();
 
         if(a>b){
-            System.out.println("Maximum"+a);
-            System.out.println("Minimum"+b);
+            System.out.println("Maximum="+a);
+            System.out.println("Minimum="+b);
         }else{
-            System.out.println("Maximum"+a);
-            System.out.println("Minimum"+b);
+            System.out.println("Maximum="+b);
+            System.out.println("Minimum="+a);
         }
 
         sc.close();
