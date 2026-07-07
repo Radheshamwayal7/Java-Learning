@@ -10,5 +10,7 @@ public class RadiusandCircumference {
         double circumference = 2 * Math.PI * radius;
 
         System.out.println("Circumference ="+circumference);
+
+        sc.close();
     }
 }
