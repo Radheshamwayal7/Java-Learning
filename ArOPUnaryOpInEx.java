@@ -7,7 +7,8 @@ public class ArOPUnaryOpInEx {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        b = a++;
+        // b = a++;
+        b = ++a;
         System.out.println(a);
         System.out.println(b);
         sc.close();
