@@ -1,4 +1,4 @@
-public class HwQ1Ex3Short {
+public class HwQ1Ex4Short {
     public static void main(String[] args) {
         
         short age = 25;
