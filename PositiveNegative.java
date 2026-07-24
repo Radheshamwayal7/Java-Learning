@@ -3,7 +3,7 @@ class PosNeg {
         
         int n = -3;
 
-        if(n >= 0) {
+        if(n > 0) {
             System.out.println("The Number Is Positive.");
         }else if(n == 0){
             System.out.println("The Number Is Zero.");
