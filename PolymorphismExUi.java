@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PolyMor {
+class PolyMor1 {
     String name;
     int age;
 
@@ -29,7 +29,7 @@ class PolyMor {
 public class PolymorphismExUi {
     public static void main(String[] args) {
         
-        PolyMor pm  = new PolyMor();
+        PolyMor1 pm  = new PolyMor1();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter Name:");
