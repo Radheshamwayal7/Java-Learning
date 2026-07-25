@@ -10,13 +10,13 @@ class Inheritence1 {
     }
 }
 
-class StudentInfo extends Inheritence1 {
+class StudentInfo1 extends Inheritence1 {
 
 }
 
 public class InheritenceExUi {
     public static void main(String[] args) {
-        StudentInfo St = new StudentInfo();
+        StudentInfo1 St = new StudentInfo1();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter The Name:");
