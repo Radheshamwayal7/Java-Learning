@@ -14,11 +14,11 @@ class StudentInfo extends Inheritence {
 
 public class InheritenceEx {
     public static void main(String[] args) {
-        Inheritence In = new Inheritence();
+        StudentInfo St = new StudentInfo();
 
-        In.name = "Sanu";
-        In.age = 20;
+        St.name = "Sanu";
+        St.age = 20;
 
-        In.Print();
+        St.Print();
     }
 }
