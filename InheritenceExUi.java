@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Inheritence {
+class Inheritence1 {
     String name;
     int age;
 
@@ -10,7 +10,7 @@ class Inheritence {
     }
 }
 
-class StudentInfo extends Inheritence {
+class StudentInfo extends Inheritence1 {
 
 }
 
