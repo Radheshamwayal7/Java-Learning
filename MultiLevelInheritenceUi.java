@@ -6,14 +6,14 @@ class Shapes1 {
     }
 }
 
-class Circle extends Shapes1 {
+class Circle1 extends Shapes1 {
     public void circles(int r) {
         double Areacircle = 3.14*r*r;
         System.out.println(Areacircle);
     }
 }
 
-class AreaCircle1 extends Circle {
+class AreaCircle1 extends Circle1 {
 
 }
 
