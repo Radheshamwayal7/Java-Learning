@@ -15,7 +15,7 @@ class Triangle3 extends Shapes3 {
     }
 }
 
-class Radius1 extends Shapes3 {
+class Radius12 extends Shapes3 {
    
 }
 
