@@ -10,7 +10,7 @@ class Defaultui{
 
 class DefaultAccessMui {
     public static void main(String[] args) {
-        DefaultAM D = new DefaultAM();
+        Defaultui D = new Defaultui();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter The String :");
