@@ -1,4 +1,4 @@
-interface Animal6 {
+interface Animal61 {
     void walk();
 }
 
@@ -6,7 +6,7 @@ interface Herbivore {
     void eats();
 }
 
-class Horse62 implements Animal6 , Herbivore {
+class Horse62 implements Animal61 , Herbivore {
     public void walk(){
         System.out.println("Horse has 4 Legs");
     }
