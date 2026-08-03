@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-interface Animal6 {
+interface Animal61 {
     void walk();
 
 }
 
-class Animals6 implements Animal6 {
+class Animals6 implements Animal61 {
     String name;
     public void walk(){
         System.out.println("Animal Can walk" );
